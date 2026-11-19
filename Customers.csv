@@ -1,0 +1,101 @@
+﻿CustomerID,CustomerName,City,Region,JoinDate,Segment
+1,Noah Johnson,Nottingham,East Midlands,2023-01-20,Business
+2,Mia Clarke,Bristol,South West,2023-02-08,Online
+3,Ethan Brown,London,Greater London,2023-02-27,Retail
+4,Freya Roberts,Sheffield,Yorkshire,2023-03-18,Business
+5,Daniel Lewis,Liverpool,North West,2023-04-06,Online
+6,Ruby Taylor,Manchester,North West,2023-04-25,Retail
+7,Oliver Walker,Coventry,West Midlands,2023-05-14,Business
+8,Ava Patel,Cardiff,Wales,2023-06-02,Online
+9,Theo Wilson,Leeds,Yorkshire,2023-06-21,Retail
+10,Grace Hughes,Birmingham,West Midlands,2023-07-10,Business
+11,Adam Morgan,Sheffield,Yorkshire,2023-07-29,Online
+12,Ella Evans,Liverpool,North West,2023-08-17,Retail
+13,Henry Green,Manchester,North West,2023-09-05,Business
+14,Isla Baker,Coventry,West Midlands,2023-09-24,Online
+15,Leo Thomas,Cardiff,Wales,2023-10-13,Retail
+16,Sofia Hall,Leeds,Yorkshire,2023-11-01,Business
+17,Lucas Smith,Birmingham,West Midlands,2023-11-20,Online
+18,Lily Johnson,Nottingham,East Midlands,2023-12-09,Retail
+19,Joshua Clarke,Bristol,South West,2023-12-28,Business
+20,Amelia Taylor,London,Greater London,2024-01-16,Online
+21,Noah Walker,Sheffield,Yorkshire,2024-02-04,Retail
+22,Mia Patel,Cardiff,Wales,2024-02-23,Business
+23,Ethan Wilson,Leeds,Yorkshire,2024-03-13,Online
+24,Freya Wright,Birmingham,West Midlands,2024-04-01,Retail
+25,Daniel Khan,Nottingham,East Midlands,2024-04-20,Business
+26,Ruby Davies,Bristol,South West,2024-05-09,Online
+27,Oliver Hughes,London,Greater London,2024-05-28,Retail
+28,Ava Morgan,Sheffield,Yorkshire,2024-06-16,Business
+29,Theo Evans,Liverpool,North West,2024-07-05,Online
+30,Grace Hall,Manchester,North West,2024-07-24,Retail
+31,Adam Smith,Coventry,West Midlands,2024-08-12,Business
+32,Ella Johnson,Cardiff,Wales,2024-08-31,Online
+33,Henry Clarke,Bristol,South West,2024-09-19,Retail
+34,Isla Brown,London,Greater London,2024-10-08,Business
+35,Leo Roberts,Sheffield,Yorkshire,2024-10-27,Online
+36,Sofia Lewis,Liverpool,North West,2024-11-15,Retail
+37,Lucas Taylor,Manchester,North West,2024-12-04,Business
+38,Lily Walker,Coventry,West Midlands,2024-12-23,Online
+39,Joshua Patel,Cardiff,Wales,2025-01-11,Retail
+40,Amelia Davies,Leeds,Yorkshire,2025-01-30,Business
+41,Noah Hughes,Birmingham,West Midlands,2025-02-18,Online
+42,Mia Morgan,Nottingham,East Midlands,2025-03-09,Retail
+43,Ethan Evans,Bristol,South West,2025-03-28,Business
+44,Freya Green,Manchester,North West,2025-04-16,Online
+45,Daniel Baker,Coventry,West Midlands,2025-05-05,Retail
+46,Ruby Thomas,Cardiff,Wales,2025-05-24,Business
+47,Oliver Hall,Leeds,Yorkshire,2025-06-12,Online
+48,Ava Smith,Birmingham,West Midlands,2025-07-01,Retail
+49,Theo Johnson,Nottingham,East Midlands,2025-07-20,Business
+50,Grace Lewis,Bristol,South West,2025-08-08,Online
+51,Adam Taylor,London,Greater London,2025-08-27,Retail
+52,Ella Walker,Sheffield,Yorkshire,2025-09-15,Business
+53,Henry Patel,Liverpool,North West,2025-10-04,Online
+54,Isla Wilson,Manchester,North West,2025-10-23,Retail
+55,Leo Wright,Birmingham,West Midlands,2025-11-11,Business
+56,Sofia Khan,Nottingham,East Midlands,2025-11-30,Online
+57,Lucas Davies,Bristol,South West,2025-12-19,Retail
+58,Lily Hughes,London,Greater London,2026-01-07,Business
+59,Joshua Morgan,Sheffield,Yorkshire,2026-01-26,Online
+60,Amelia Thomas,Liverpool,North West,2026-02-14,Retail
+61,Noah Hall,Manchester,North West,2026-03-05,Business
+62,Mia Smith,Coventry,West Midlands,2026-03-24,Online
+63,Ethan Johnson,Cardiff,Wales,2023-01-18,Retail
+64,Freya Clarke,Leeds,Yorkshire,2023-02-06,Business
+65,Daniel Brown,Birmingham,West Midlands,2023-02-25,Online
+66,Ruby Roberts,Sheffield,Yorkshire,2023-03-16,Retail
+67,Oliver Lewis,Liverpool,North West,2023-04-04,Business
+68,Ava Taylor,Manchester,North West,2023-04-23,Online
+69,Theo Walker,Coventry,West Midlands,2023-05-12,Retail
+70,Grace Khan,Cardiff,Wales,2023-05-31,Business
+71,Adam Davies,Leeds,Yorkshire,2023-06-19,Online
+72,Ella Hughes,Birmingham,West Midlands,2023-07-08,Retail
+73,Henry Morgan,Nottingham,East Midlands,2023-07-27,Business
+74,Isla Evans,Bristol,South West,2023-08-15,Online
+75,Leo Green,London,Greater London,2023-09-03,Retail
+76,Sofia Baker,Sheffield,Yorkshire,2023-09-22,Business
+77,Lucas Thomas,Cardiff,Wales,2023-10-11,Online
+78,Lily Hall,Leeds,Yorkshire,2023-10-30,Retail
+79,Joshua Smith,Birmingham,West Midlands,2023-11-18,Business
+80,Amelia Roberts,Nottingham,East Midlands,2023-12-07,Online
+81,Noah Lewis,Bristol,South West,2023-12-26,Retail
+82,Mia Taylor,London,Greater London,2024-01-14,Business
+83,Ethan Walker,Sheffield,Yorkshire,2024-02-02,Online
+84,Freya Patel,Liverpool,North West,2024-02-21,Retail
+85,Daniel Wilson,Manchester,North West,2024-03-11,Business
+86,Ruby Wright,Coventry,West Midlands,2024-03-30,Online
+87,Oliver Khan,Cardiff,Wales,2024-04-18,Retail
+88,Ava Davies,Bristol,South West,2024-05-07,Business
+89,Theo Hughes,London,Greater London,2024-05-26,Online
+90,Grace Baker,Sheffield,Yorkshire,2024-06-14,Retail
+91,Adam Thomas,Liverpool,North West,2024-07-03,Business
+92,Ella Hall,Manchester,North West,2024-07-22,Online
+93,Henry Smith,Coventry,West Midlands,2024-08-10,Retail
+94,Isla Johnson,Cardiff,Wales,2024-08-29,Business
+95,Leo Clarke,Leeds,Yorkshire,2024-09-17,Online
+96,Sofia Brown,Birmingham,West Midlands,2024-10-06,Retail
+97,Lucas Roberts,Nottingham,East Midlands,2024-10-25,Business
+98,Lily Lewis,Bristol,South West,2024-11-13,Online
+99,Joshua Taylor,Manchester,North West,2024-12-02,Retail
+100,Amelia Wright,Coventry,West Midlands,2024-12-21,Business
