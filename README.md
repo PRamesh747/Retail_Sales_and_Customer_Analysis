@@ -40,7 +40,7 @@ The project uses two main relational tables.
 
 | Table | Business information |
 |---|---|
-| `Customers` | Customer ID, customer name, city, region and customer segment |
+| `Customers` | Customer ID, customer name, city, region, Join year, and customer segment |
 | `Orders` | Order ID, customer ID, category, quantity, unit price and order date |
 
 The `CustomerID` field is used to connect customer records with their corresponding orders.
